@@ -26,7 +26,7 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 
 14:09:28	Error: 	"Not Found" (404) at link https://arvindproteins.com/images/arrow-pointing-to-right-dark.svg (from https://arvindproteins.com/css/style.css)
 
-14:09:28	Error: 	"Not Found" (404) at link https://arvindproteins.com/product-detail/images/favicon.png (from https://arvindproteins.com/product-detail/raw-peanuts)
+14:09:28	Error: 	"Not Found" (404) at link https://arvindproteins.com/product-detail/images/logo.png (from https://arvindproteins.com/product-detail/raw-peanuts)
 
 14:09:29	Error: 	"Not Found" (404) at link https://arvindproteins.com/product-detail/upload/MinalAgriExport-Profile.pdf (from https://arvindproteins.com/product-detail/raw-peanuts)
 
